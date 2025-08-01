@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hi, I’m Nikoo Khanahmadi
 
-<!--
-**nikoo-neuro/nikoo-neuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ M.Sc. Biomedical Engineer | PhD Applicant in Neuroengineering  
+ Specialized in EEG, fMRI, Multimodal AI & Explainable AI (XAI)  
+ Inventor with multiple international patents (WIPO)  
+Published researcher in ADHD neurofeedback & personalized medicine  
+ Currently working on brain-computer interfaces and clinical AI  
 
-Here are some ideas to get you started:
+ Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Neuro-AI and brain signal decoding  
+- EEG/fMRI data fusion and interpretation  
+- Transparent deep learning in medicine  
+- Human-machine interaction & neurorehab tech  
+
+ How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/nikoo-khanahmadi) | [ORCID](https://orcid.org/0000-0001-9900-3700) | nikoo.ahmadi92@gmail.com
